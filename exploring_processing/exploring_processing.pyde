@@ -178,7 +178,7 @@ def draw():
         face_pos_x += face_speed_x
         face_pos_y += face_speed_y
 
-        # Change shade of background and face and bounce face when it hits the side
+        # Change shade of background and face when face bounces off the side
         if face_pos_x <= face_size_x/2 or face_pos_x >= width - face_size_x/2:
             face_speed_x *= -1
             background_colour = change_background_colour(background_colour)

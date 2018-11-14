@@ -13,6 +13,7 @@ Purpose: Demonstrate I can code the following tasks:
 Author: Lin.I
 
 Created: 11/11/2018
+-------------------------------
 """
 
 # Mouse event variable

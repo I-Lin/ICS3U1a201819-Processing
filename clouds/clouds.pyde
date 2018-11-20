@@ -1,6 +1,6 @@
 """
 -------------------------------
-Name: clouds.py
+Name: clouds.pyde
 Purpose: Create a function in processing that
 will be called three times to draw animated clouds.
 
